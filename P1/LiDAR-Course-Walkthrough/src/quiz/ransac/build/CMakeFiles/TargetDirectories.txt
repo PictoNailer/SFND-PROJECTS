@@ -1,0 +1,3 @@
+/root/Desktop/SFND1-LiDAR/src/quiz/ransac/build/CMakeFiles/rebuild_cache.dir
+/root/Desktop/SFND1-LiDAR/src/quiz/ransac/build/CMakeFiles/quizRansac.dir
+/root/Desktop/SFND1-LiDAR/src/quiz/ransac/build/CMakeFiles/edit_cache.dir
