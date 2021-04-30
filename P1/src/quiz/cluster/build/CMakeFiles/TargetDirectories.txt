@@ -1,0 +1,3 @@
+/root/Desktop/SFND1-LiDAR/src/quiz/cluster/build/CMakeFiles/rebuild_cache.dir
+/root/Desktop/SFND1-LiDAR/src/quiz/cluster/build/CMakeFiles/quizCluster.dir
+/root/Desktop/SFND1-LiDAR/src/quiz/cluster/build/CMakeFiles/edit_cache.dir

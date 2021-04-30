@@ -1,3 +1,0 @@
-/root/Desktop/SFND1-LiDAR/build/CMakeFiles/rebuild_cache.dir
-/root/Desktop/SFND1-LiDAR/build/CMakeFiles/environment.dir
-/root/Desktop/SFND1-LiDAR/build/CMakeFiles/edit_cache.dir
